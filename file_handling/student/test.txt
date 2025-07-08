@@ -1,0 +1,6 @@
+Name: hitesh
+Age: 18
+CGPA: 0.00
+Name: yash
+Age: 10
+CGPA: 100.00
